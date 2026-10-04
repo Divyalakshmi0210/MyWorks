@@ -4,8 +4,6 @@
 🎓 First-Year B.Tech IT Student | Aspiring Software Developer | 
 💻 Interested in Programming, Web Technologies & Problem Solving
 
-[LinkedIn] https://www.linkedin.com/in/divya-lakshmi-46b012441?utm_source=share_via&utm_content=profile&utm_medium=member_android | [GitHub](YOUR_GITHUB_LINK)
-
 ---
 
 ## 📚 About Me
